@@ -1,7 +1,5 @@
 package me.fungames.kotlinSquish
 
-import max
-
 /** -----------------------------------------------------------------------------
  *	Copyright (c) 2006 Simon Brown                          si@sjbrown.co.uk
  *	Copyright (c) 2007 Ignacio Castano                   icastano@nvidia.com
